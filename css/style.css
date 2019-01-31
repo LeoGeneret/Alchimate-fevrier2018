@@ -1,3 +1,12 @@
+@font-face {
+    font-family: "P22";
+    src: url("font/P22.ttf") format("truetype");
+}
+
+
+
+
+
 section.first {
     height: 100vh;
     background-image: url(images_contenu/fond_esport.png);
@@ -32,7 +41,7 @@ h1 {
 }
 
 h2 {
-    font-family: "P22 Johnston Underground", sans-serif;
+    font-family: 'P22', sans-serif;
     color: white;
     font-size: 5rem;
     font-weight: 400;
@@ -178,7 +187,7 @@ section.registerfooter{
     text-align: center;
     font-size: 60px;
     color: #FFF;
-    font-family: "P22 Johnston Underground", sans-serif;
+    font-family: 'P22', sans-serif;
     width: 100%;
     margin-bottom: 8vh;
     overflow: hidden;
@@ -202,7 +211,7 @@ section.registerfooter{
 
 .cardsteps h3 {
     color: #FFF;
-    font-family: "P22 Johnston Underground", sans-serif;
+    font-family: "P22", sans-serif;
     font-size: 46px;
     margin-top: 4vh;
     margin-bottom: 4vh;
